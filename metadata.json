@@ -1,0 +1,6 @@
+{
+  "name": "GrainNest",
+  "description": "Wood-grain aware nesting tool for laser cutting. Import SVGs, photograph wood sheets, detect grain direction, and generate optimized nests with realistic wood-texture mockups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
